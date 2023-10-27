@@ -1,4 +1,12 @@
 /*  your css code here. If applicable */
-.body{
-	background-color: rgb(204, 204, 204)
+body{ background-color: rgb(204, 204, 204);}
+h1{ text-align: center;}
+div {
+	background-color: rgb(255, 255, 255);
+	border: 1px solid black;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 5px;
 }
+li{ list-style-type: none;}
+h2{ text-align: center;}
