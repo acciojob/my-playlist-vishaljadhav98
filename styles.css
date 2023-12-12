@@ -10,3 +10,8 @@ div {
 }
 li{ list-style-type: none;}
 h2{ text-align: center;}
+.player_one{}
+.player_two{}
+a{
+	text-decoration: none;
+}
